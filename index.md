@@ -1,4 +1,4 @@
-#__LinkedIn Job Searching__
+# __LinkedIn Job Searching__
 #### Liam Creedon - Fall 2021
 
 ## User Research
