@@ -32,8 +32,11 @@ The user was asked to complete a set of tasks leveraging LinkedIn. The tasks ask
 5. Turn on job alerts for this job, and customize as desired
 
 ### CI Summary
+
 ![Top bar](/images/LinkedIn \title \bar.png)
+
 1. The user began with navigating to the 'Jobs' tab on LinkedIn, and then entered into the search bar the title of a job she is looking to pursue. She scanned the results, mentioning that within each listing she was looking for factors important to her (location, full time or part time, job functions, required experience, salary, benefits, company values). Some of these features the user mentioned were nice to see in a "quick-view", where they stood out immediately upon viewing the job posting. Others, she mentioned were lost in the length and detail of the post, leaving her wishing that postings were more concise and focused in general.v
 
 ![Filters](/images/LinkedIn \job \filters.png)
+
 2. The user said that when searching, she does not often uses the filters and instead tends to just scan with her eyes. Of the filters listed at the top of the page, some were selected and the user quickly moved on, some were meet with interest conveyed by and exclamatory "Hmm!" or "Ooh!", and some were visited and the user immediately knew that this was a filter of interest to her.
