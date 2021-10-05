@@ -1,4 +1,3 @@
-# HCI Assignment 1 - Paper based prototyping and evaluation
 ### Liam Creedon - Fall 2021
 
 ## User Research
