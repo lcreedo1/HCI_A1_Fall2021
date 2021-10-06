@@ -63,15 +63,15 @@ For my redesign, I considered two primary interfaces of LinkedIn to visit: the '
 
 Key features I aimed to capture in my prototype were:
 * Homepage
- * Highlighting frequently used features and making them more centric in the design
- * Minimzing extranneous or infrequently used features
- * Adding better resume functionality
- * Making job information relevant to the user immediately obvious
+  * Highlighting frequently used features and making them more centric in the design
+  * Minimzing extranneous or infrequently used features
+  * Adding better resume functionality
+  * Making job information relevant to the user immediately obvious
 
 * Job search
- * Expanding filter options
- * Incorporating resume matching
- * Displaying saved jobs
+  * Expanding filter options
+  * Incorporating resume matching
+  * Displaying saved jobs
 
 
 
