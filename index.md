@@ -48,3 +48,6 @@ The user was asked to complete a set of tasks leveraging LinkedIn. The tasks ask
 4. The user navigated relatively quickly to the location of saved jobs and was able to follow the proper process to get back to the job posting. Having spent very little time looking at the actual page of saved jobs, it conveyed a comfortability with the design of the page.
 5. The user was able to quickly locate the button to set job alerts for the job she had just mocked and application for. When prompted to customize the alert that she had just set, the proper screen to do so was not evident to her. A notification popped up in the bottom left of the screen that the user did not immediately see, but once she noticed she was able to enter the proper interface. She noted the job alert customization screen "doesn't allow me to change everything about the alert", specifically that the frequency and notification method (email vs text) was the only aspect able to be modified, and not actually the job or location. Returning to the jobs tab, the user quickly saw where the default location to change alerts exists on the page.
  
+## Sequence Modeling
+
+![Sequence Model](/docs/assets/images/sequenceModel.png)
