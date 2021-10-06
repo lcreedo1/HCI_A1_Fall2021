@@ -67,6 +67,7 @@ Key features I aimed to capture in my prototype were:
  * Minimzing extranneous or infrequently used features
  * Adding better resume functionality
  * Making job information relevant to the user immediately obvious
+
 * Job search
  * Expanding filter options
  * Incorporating resume matching
