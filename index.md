@@ -76,9 +76,19 @@ Key features I aimed to capture in my prototype were:
 
 ![Paper prototype jobs page](/docs/assets/images/paperJobsPage.png)
 
+For the Jobs page of LinkedIn, I modified the design to give it a more widget driven design. We can see clearly both saved jobs and a resume center. Also, the job reccomendations are more intelligently categorized, using features like your resume, job alerts and saved jobs. The search bar has also been made larger and placed centrally for easier viewing and access. A menu was also added to be able to rearrange the display order of the saved jobs.
+
 ![Paper prototype job search](/docs/assets/images/paperJobSearch.png)
 
+For the search results page, the main change came in making the filters more obvious. The design I used matches the filter mechanisms on many other websites. Listing them vertically allows us to get rid of the 'All filters' button, and instead just list all of the possible options. I also added a resume match, which is a feature that intelligently takes criteria from your resume and compares it to info in jpb postings.
 
 ## User Evaluation
 
-![Paper Evaluation](/docs/assets/images/UserEvaluation.mov)
+User seemed to be able to effectively and efficiently navigate the prototype.
+
+![Paper Evaluation 1](/docs/assets/images/uept1.mov)
+
+![Paper Evaluation 2](/docs/assets/images/uept2.mov)
+
+![Paper Evaluation 3](/docs/assets/images/uept3.mov)
+
