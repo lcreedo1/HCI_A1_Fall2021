@@ -86,6 +86,10 @@ For the search results page, the main change came in making the filters more obv
 
 User seemed to be able to effectively and efficiently navigate the prototype.
 
+_Please view github page to download videos_
+
+_Had to split into 3 files due to size constraints on upload to github_
+
 ![Paper Evaluation 1](/docs/assets/images/uept1.mov)
 
 ![Paper Evaluation 2](/docs/assets/images/uept2.mov)
