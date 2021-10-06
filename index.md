@@ -46,6 +46,7 @@ Task 3 - Before even being asked about her resume, the user highlighted a key as
  ![LinkedIn resume location](/docs/assets/images/jobTabs.png)
  
 Task 4 - The user navigated relatively quickly to the location of saved jobs and was able to follow the proper process to get back to the job posting. Having spent very little time looking at the actual page of saved jobs, it conveyed a comfortability with the design of the page.
+
 Task 5 - The user was able to quickly locate the button to set job alerts for the job she had just mocked and application for. When prompted to customize the alert that she had just set, the proper screen to do so was not evident to her. A notification popped up in the bottom left of the screen that the user did not immediately see, but once she noticed she was able to enter the proper interface. She noted the job alert customization screen "doesn't allow me to change everything about the alert", specifically that the frequency and notification method (email vs text) was the only aspect able to be modified, and not actually the job or location. Returning to the jobs tab, the user quickly saw where the default location to change alerts exists on the page.
  
 ## Sequence Modeling
@@ -57,7 +58,7 @@ Task 5 - The user was able to quickly locate the button to set job alerts for th
 
 For my redesign, I considered two primary interfaces of LinkedIn to visit: the 'homepage' of the 'Jobs' tab, and the search results when searching for jobs.
 
-![LinkedIn Jobs tab](/docs/assets/images/jobsPage.png)
+![LinkedIn Jobs page](/docs/assets/images/jobsPage.png)
 
 ![LinkedIn Job search results](/docs/assets/images/jobSearch.png)
 
@@ -73,11 +74,8 @@ Key features I aimed to capture in my prototype were:
   * Incorporating resume matching
   * Displaying saved jobs
 
+![Paper prototype jobs page](/docs/assets/images/paperJobsPage.png)
 
+![Paper prototype job search](/docs/assets/images/paperJobSearch.png)
 
-
-
-
-
-
-
+![Paper prototype saved jobs](/docs/assets/images/paperSavedJobs.png)
