@@ -51,3 +51,11 @@ The user was asked to complete a set of tasks leveraging LinkedIn. The tasks ask
 ## Sequence Modeling
 
 ![Sequence Model](/docs/assets/images/sequenceModel.png)
+
+
+## Paper Based Prototyping
+
+For my redesign, I considered two primary interfaces of LinkedIn to visit: the 'homepage' of the 'Jobs' tab, and the search results when searching for jobs.
+
+![LinkedIn Jobs tab](/docs/assets/images/jobsPage.png)
+![LinkedIn Job search results](/docs/assets/images/jobSearch.png)
