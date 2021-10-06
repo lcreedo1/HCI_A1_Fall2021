@@ -74,7 +74,7 @@ Key features I aimed to capture in my prototype were:
   * Incorporating resume matching
   * Displaying saved jobs
 
-![Paper prototype jobs page](/docs/assets/images/paperJobsPage.png)
+![Paper prototype jobs page](/docs/assets/images/paperJobPage.png)
 
 For the Jobs page of LinkedIn, I modified the design to give it a more widget driven design. We can see clearly both saved jobs and a resume center. Also, the job reccomendations are more intelligently categorized, using features like your resume, job alerts and saved jobs. The search bar has also been made larger and placed centrally for easier viewing and access. A menu was also added to be able to rearrange the display order of the saved jobs.
 
